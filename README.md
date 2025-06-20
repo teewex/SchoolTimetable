@@ -1,0 +1,2 @@
+# SchoolTimetable
+Automated School Scheduler 
